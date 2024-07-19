@@ -224,3 +224,4 @@ C:\Users\khaleu\Desktop\Estudar\ASP.NET\CasaCodigoCapitulo1\bin\Debug\net8.0\run
 C:\Users\khaleu\Desktop\Estudar\ASP.NET\CasaCodigoCapitulo1\obj\Debug\net8.0\CasaCodigoCapitulo1.csproj.AssemblyReference.cache
 C:\Users\khaleu\Desktop\Estudar\ASP.NET\CasaCodigoCapitulo1\obj\Debug\net8.0\CasaCodi.61EE3EB2.Up2Date
 C:\Users\khaleu\Desktop\Estudar\ASP.NET\CasaCodigoCapitulo1\bin\Debug\net8.0\bundleconfig.json
+C:\Users\khaleu\Desktop\Estudar\ASP.NET\CasaCodigoCapitulo1\obj\Debug\net8.0\CasaCodigoCapitulo1.sourcelink.json
