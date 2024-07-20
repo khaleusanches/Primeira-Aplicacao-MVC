@@ -59,5 +59,29 @@ namespace CasaCodigoCapitulo1.Controllers
             //instituicoes.Add(instituicao);
             return RedirectToAction("Index");
         }
+
+        public ActionResult Details(long id)
+        {
+            return View(instituicoes.Where(i => i.InstituicaoID == id).First());
+        }
+
+        public ActionResult Delete(long id) 
+        {
+            return View(instituicoes.Where(i => i.InstituicaoID == id).First());
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Delete(Instituicao instituicao)
+        {
+            for(int i = 0; i < instituicoes.Count; i++)
+            {
+                if(instituicao.InstituicaoID == instituicoes[i].InstituicaoID)
+                {
+                    instituicoes.Remove(instituicoes[i]);
+                }
+            }
+            //instituicoes.Remove(instituicoes.Where(i => i.InstituicaoID == instituicao.InstituicaoID).First());
+            return RedirectToAction("Index");
+        }
     }
 }
