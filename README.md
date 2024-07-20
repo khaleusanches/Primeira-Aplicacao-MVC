@@ -1,4 +1,4 @@
-# Primeira-Aplicacao-MVC
+<h1 align="center"> Primeira-Aplicacao-MVC </h1>
 
 ## :scroll: Sobre: 
 Esse repósitorio tem como intuito documentar o aprendizado e o projeto realizado diante do cápitulo 1 do livro "ASP.NET Core MVC: Aplicações modernas em conjunto com o Entity Framework".<br>
@@ -14,11 +14,11 @@ Os dados são armazenados em uma única lista e as abas lhe permitem manipular e
 
 - [ ] Banco de dados
 
-## :scroll:
-#### 19/07 - 17:40 
+<h1 align="center"> :scroll: </h1>
+<h3> 19/07 - 17:40 </h3>
 Adicionado o sistema de visualizar, inserir e editar dados.
 
-#### 20/07 - 16:25
-Adicionado os sistemas de visualização de 1 único registro por vez e o de deletar o registro
+<h3> 20/07 - 16:25 </h3>
+Adicionado os sistemas de visualização de 1 único registro por vez e o de deletar o registro.
 
 ## Fim
