@@ -28,6 +28,6 @@ Conexão do Banco de dados + Criação direta dele utilizando SQL.
 #### 24/07 - 09:00
 Substituição do *banco de dados* SQL
 Criação do *banco de dados* mysql com MariaDB.
-Conexão com o novo banco.
+Conexão com o novo banco."
 
 ## Fim
