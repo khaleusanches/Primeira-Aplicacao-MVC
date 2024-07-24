@@ -5,20 +5,29 @@ Esse repósitorio tem como intuito documentar o aprendizado e o projeto realizad
 Os dados são armazenados em uma única lista e as abas lhe permitem manipular essa lista, adicionando, removendo e editando os dados.<br>
 
 ## :newspaper: Features:
-- [x] Entender o básico de MVC
-- [x] View para **VER** todas as instituições
-- [x] View para **VER 1 ÚNICO** registro de instituição
-- [x] View para **ADICIONAR** uma instituição
-- [x] View para **EDITAR** os dados de uma instituição
-- [x] View para **DELETAR** os dados de uma instituição
 
-- [ ] Banco de dados
+- [x] Criação do Banco de Dados.
+- [x] Conexão com o Banco de Dados.
+
+- [ ] **VER** todas as instituições do Banco de dados *MYSQL*.
+- [ ] **VER 1 ÚNICO** registro de instituição do Banco de dados *MYSQL*.
+- [ ] **ADICIONAR** uma instituição do Banco de dados *MYSQL*.
+- [ ] **EDITAR** os dados de uma instituição do Banco de dados *MYSQL*.
+- [ ] **DELETAR** os dados de uma instituição do Banco de dados *MYSQL*.
 
 ## :scroll:
 #### 19/07 - 17:40 
 Adicionado o sistema de visualizar, inserir e editar dados.
 
 #### 20/07 - 16:25
-Adicionado os sistemas de visualização de 1 único registro por vez e o de deletar o registro
+Adicionado os sistemas de visualização de 1 único registro por vez e o de deletar o registro.
+
+#### 22/07 - 10:40
+Conexão do Banco de dados + Criação direta dele utilizando SQL.
+
+#### 24/07 - 09:00
+Substituição do *banco de dados* SQL
+Criação do *banco de dados* mysql com MariaDB.
+Conexão com o novo banco.
 
 ## Fim
