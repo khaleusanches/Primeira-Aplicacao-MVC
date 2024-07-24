@@ -12,8 +12,6 @@ Os dados são armazenados em uma única lista e as abas lhe permitem manipular e
 - [x] View para **EDITAR** os dados de uma instituição
 - [x] View para **DELETAR** os dados de uma instituição
 
-- [ ] Banco de dados
-
 <h1 align="center"> :scroll: </h1>
 <h3> 19/07 - 17:40 </h3>
 Adicionado o sistema de visualizar, inserir e editar dados.
@@ -21,4 +19,3 @@ Adicionado o sistema de visualizar, inserir e editar dados.
 <h3> 20/07 - 16:25 </h3>
 Adicionado os sistemas de visualização de 1 único registro por vez e o de deletar o registro.
 
-## Fim
