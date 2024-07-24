@@ -1,4 +1,4 @@
-# Primeira-Aplicacao-MVC
+<h1 align="center"> Primeira-Aplicacao-MVC </h1>
 
 ## :scroll: Sobre: 
 Esse repósitorio tem como intuito documentar o aprendizado e o projeto realizado diante do cápitulo 1 do livro "ASP.NET Core MVC: Aplicações modernas em conjunto com o Entity Framework".<br>
@@ -30,4 +30,4 @@ Substituição do *banco de dados* SQL
 Criação do *banco de dados* mysql com MariaDB.
 Conexão com o novo banco."
 
-## Fim
+
