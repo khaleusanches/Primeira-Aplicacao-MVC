@@ -1,8 +1,18 @@
+using CasaCodigoCapitulo1.Data;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.SqlServer;
+using System.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddDbContextPool<IESContext>(options => 
+{
+    options.UseMySql(builder.Configuration.GetConnectionString("IESConnection"), 
+        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("IESConnection")));
+});
 
+builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
