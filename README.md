@@ -6,6 +6,15 @@ Os dados são armazenados em uma única lista e as abas lhe permitem manipular e
 
 ## :newspaper: Features:
 
+- CAPITULO 1
+- [x] Entender o básico de MVC
+- [x] View para **VER** todas as instituições
+- [x] View para **VER 1 ÚNICO** registro de instituição
+- [x] View para **ADICIONAR** uma instituição
+- [x] View para **EDITAR** os dados de uma instituição
+- [x] View para **DELETAR** os dados de uma instituição
+
+- CAPITULO 2
 - [x] Criação do Banco de Dados.
 - [x] Conexão com o Banco de Dados.
 
