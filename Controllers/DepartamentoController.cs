@@ -43,5 +43,63 @@ namespace CasaCodigoCapitulo1.Controllers
             }
             return View(departamento);
         }
+
+        public async Task<IActionResult> Edit(long? id)
+        {
+            if(id == null)
+            {
+                return NotFound();
+            }
+            var departamento = await _context.Departamentos.SingleOrDefaultAsync(m => m.ID == id);
+            if (departamento == null)
+            {
+                return NotFound();
+            }
+            return View(departamento);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(long? id, [Bind("ID, Nome")] Departamento departamento)
+        {
+            if(id != departamento.ID)
+            {
+                return NotFound();
+            }
+            if(ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(departamento);
+                    await _context.SaveChangesAsync();
+                }
+                catch
+                {
+                    return NotFound();
+                }
+                return RedirectToAction(nameof(Index));
+            }
+            return View(departamento);
+        }
+
+        public async Task<IActionResult> Details(long? id)
+        {
+            return View(await _context.Departamentos.SingleOrDefaultAsync(departamentos => departamentos.ID == id));
+        }
+
+        public async Task<IActionResult> Delete(long? id)
+        {
+            return View(await _context.Departamentos.SingleOrDefaultAsync(departamentos => departamentos.ID == id));
+        }
+
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirm(long? id)
+        {
+            var departamento = await _context.Departamentos.SingleOrDefaultAsync(departamentos => departamentos.ID == id);
+            _context.Remove(departamento);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
