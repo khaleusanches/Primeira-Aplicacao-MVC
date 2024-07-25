@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|c:\\users\\khaleu\\desktop\\estudar\\asp.net\\casacodigocapitulo1\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|c:\\users\\khaleu\\desktop\\estudar\\asp.net\\casacodigocapitulo1\\views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|c:\\users\\khaleu\\desktop\\estudar\\asp.net\\casacodigocapitulo1\\views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAADIAAABpAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACsAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-07-25T01:09:22.967Z",
               "EditorCaption": ""
@@ -95,8 +95,7 @@
               "RelativeToolTip": "Views\\Departamento\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T23:47:54.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T23:47:54.499Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Views\\Departamento\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T23:44:22.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T23:44:22.306Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "Controllers\\DepartamentoController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAIwCQAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T23:33:56.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T23:33:56.773Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-24T11:43:41.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T11:43:41.452Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "Data\\IESContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T14:54:03.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T14:54:03.985Z"
             },
             {
               "$type": "Document",
@@ -160,8 +155,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T01:53:00.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T01:53:00.691Z"
             },
             {
               "$type": "Document",
@@ -173,8 +167,7 @@
               "RelativeToolTip": "Models\\Departamento.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T14:50:08.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T14:50:08.209Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T14:49:33.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T14:49:33.645Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "Views\\Instituicao\\Create.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T19:10:19.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T19:10:19.094Z"
             },
             {
               "$type": "Document",
@@ -212,8 +203,7 @@
               "RelativeToolTip": "Views\\Instituicao\\Delete.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAuwB8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T18:53:50.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T18:53:50.256Z"
             },
             {
               "$type": "Document",
@@ -225,8 +215,7 @@
               "RelativeToolTip": "Models\\Instituicao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:43:58.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:43:58.361Z"
             },
             {
               "$type": "Document",
@@ -238,8 +227,7 @@
               "RelativeToolTip": "Views\\Instituicao\\Index.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T05:25:21.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T05:25:21.329Z"
             },
             {
               "$type": "Document",
@@ -251,8 +239,7 @@
               "RelativeToolTip": "Controllers\\InstituicaoController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAUwCAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:40:44.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T04:40:44.328Z"
             }
           ]
         },

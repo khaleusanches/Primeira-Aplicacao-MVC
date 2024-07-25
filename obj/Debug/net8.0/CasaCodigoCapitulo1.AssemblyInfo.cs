@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CasaCodigoCapitulo1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8df80eb259142aaa559a06d88fc051dacb9a93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d1b6287b895fc8ae9e18dac012faa484d4a593b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CasaCodigoCapitulo1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CasaCodigoCapitulo1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

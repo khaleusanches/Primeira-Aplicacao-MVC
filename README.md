@@ -43,7 +43,6 @@ Conexão com o novo banco."
 Criação da view e métodos para ver os departamentos dentro do banco de dados.
 Criação da view e métodos para adicionar departamentos dentro do banco de dados.
 
-
 ## ANOTAÇÕES
 
 **ASYNC** = Permite que quem fez a requisição, continue outros processos normalmente.
@@ -55,7 +54,7 @@ Criação da view e métodos para adicionar departamentos dentro do banco de dad
 [ValidateAntiForgeryToken]
 public async Task<IActionResult> Create([Bind("Nome")] Departamento departamento){
 ```
-public async Task(IActionResult) = Metodo que retorna um ActionResult assincrono.
+public async Task(IActionResult) = Método que retorna um ActionResult assincrono.
 
 Create([Bind("Nome")] Departamento departamento) = O metodo recebe como parametro um objeto departamento.
 
