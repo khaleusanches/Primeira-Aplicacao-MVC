@@ -18,11 +18,11 @@ Os dados são armazenados em uma única lista e as abas lhe permitem manipular e
 - [x] Criação do Banco de Dados.
 - [x] Conexão com o Banco de Dados.
 
-- [ ] **VER** todas as instituições do Banco de dados *MYSQL*.
-- [ ] **VER 1 ÚNICO** registro de instituição do Banco de dados *MYSQL*.
-- [ ] **ADICIONAR** uma instituição do Banco de dados *MYSQL*.
-- [ ] **EDITAR** os dados de uma instituição do Banco de dados *MYSQL*.
-- [ ] **DELETAR** os dados de uma instituição do Banco de dados *MYSQL*.
+- [X] **VER** todas os departamentos do Banco de dados *MYSQL*.
+- [ ] **VER 1 ÚNICO** registro de departamentos do Banco de dados *MYSQL*.
+- [X] **ADICIONAR** um departamentos do Banco de dados *MYSQL*.
+- [ ] **EDITAR** os dados de um departamentos do Banco de dados *MYSQL*.
+- [ ] **DELETAR** os dados de um departamentos do Banco de dados *MYSQL*.
 
 ## :scroll:
 #### 19/07 - 17:40 
@@ -39,4 +39,23 @@ Substituição do *banco de dados* SQL
 Criação do *banco de dados* mysql com MariaDB.
 Conexão com o novo banco."
 
+#### 25/07 - 06:27
+Criação da view e métodos para ver os departamentos dentro do banco de dados.
+Criação da view e métodos para adicionar departamentos dentro do banco de dados.
 
+## ANOTAÇÕES
+
+**ASYNC** = Permite que quem fez a requisição, continue outros processos normalmente.
+- Permite a utilização do 'await', assim quem fez a requisição, continua outros processos normalmente, até a conclusão de onde o await está, e então retoma de onde o método havia parado.
+
+#### 25/07 - 06:27 - DepartamentoController - Criação de dados no banco.
+```
+[HttpPost]
+[ValidateAntiForgeryToken]
+public async Task<IActionResult> Create([Bind("Nome")] Departamento departamento){
+```
+public async Task(IActionResult) = Método que retorna um ActionResult assincrono.
+
+Create([Bind("Nome")] Departamento departamento) = O metodo recebe como parametro um objeto departamento.
+
+**BIND("Nome")** *(bibilioteca LINQ)* = Diz que só vai utilizar a variavel de nome "Nome" do objeto como parametro, e não ele inteiro
