@@ -11,12 +11,24 @@
       "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|c:\\users\\khaleu\\desktop\\estudar\\asp.net\\casacodigocapitulo1\\views\\departamento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:views\\departamento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|c:\\users\\khaleu\\desktop\\estudar\\asp.net\\casacodigocapitulo1\\views\\departamento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:views\\departamento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|c:\\users\\khaleu\\desktop\\estudar\\asp.net\\casacodigocapitulo1\\views\\departamento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:views\\departamento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\data\\iescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAF93ABB-826B-41BB-8776-321C291DB835}|CasaCodigoCapitulo1.csproj|C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\models\\instituicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -80,14 +88,53 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAACsAAABKAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-07-25T01:09:22.967Z",
+              "WhenOpened": "2024-07-25T15:08:45.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Departamento\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departamento\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Departamento\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Departamento\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T15:06:17.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Departamento\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departamento\\Details.cshtml",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Departamento\\Details.cshtml",
+              "RelativeToolTip": "Views\\Departamento\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T14:56:34.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Departamento\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departamento\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Departamento\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Departamento\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T14:37:59.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Departamento\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Departamento\\Create.cshtml",
@@ -95,19 +142,21 @@
               "RelativeToolTip": "Views\\Departamento\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T23:47:54.499Z"
+              "WhenOpened": "2024-07-24T23:47:54.499Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Departamento\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Departamento\\Index.cshtml",
               "ToolTip": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Departamento\\Index.cshtml",
               "RelativeToolTip": "Views\\Departamento\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T23:44:22.306Z"
+              "WhenOpened": "2024-07-24T23:44:22.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -117,25 +166,14 @@
               "RelativeDocumentMoniker": "Controllers\\DepartamentoController.cs",
               "ToolTip": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Controllers\\DepartamentoController.cs",
               "RelativeToolTip": "Controllers\\DepartamentoController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwCQAAAA7AAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAIwGAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T23:33:56.773Z"
+              "WhenOpened": "2024-07-24T23:33:56.773Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-24T11:43:41.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "IESContext.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Data\\IESContext.cs",
               "RelativeDocumentMoniker": "Data\\IESContext.cs",
@@ -147,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -159,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Departamento.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Models\\Departamento.cs",
               "RelativeDocumentMoniker": "Models\\Departamento.cs",
@@ -171,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -183,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Instituicao\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Instituicao\\Create.cshtml",
@@ -195,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Instituicao\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Instituicao\\Delete.cshtml",
@@ -207,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Instituicao.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Models\\Instituicao.cs",
               "RelativeDocumentMoniker": "Models\\Instituicao.cs",
@@ -219,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Views\\Instituicao\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Instituicao\\Index.cshtml",
@@ -231,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "InstituicaoController.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Estudar\\ASP.NET\\CasaCodigoCapitulo1\\Controllers\\InstituicaoController.cs",
               "RelativeDocumentMoniker": "Controllers\\InstituicaoController.cs",

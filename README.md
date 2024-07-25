@@ -21,8 +21,8 @@ Os dados são armazenados em uma única lista e as abas lhe permitem manipular e
 - [X] **VER** todas os departamentos do Banco de dados *MYSQL*.
 - [ ] **VER 1 ÚNICO** registro de departamentos do Banco de dados *MYSQL*.
 - [X] **ADICIONAR** um departamentos do Banco de dados *MYSQL*.
-- [ ] **EDITAR** os dados de um departamentos do Banco de dados *MYSQL*.
-- [ ] **DELETAR** os dados de um departamentos do Banco de dados *MYSQL*.
+- [x] **EDITAR** os dados de um departamentos do Banco de dados *MYSQL*.
+- [x] **DELETAR** os dados de um departamentos do Banco de dados *MYSQL*.
 
 ## :scroll:
 #### 19/07 - 17:40 
@@ -43,6 +43,10 @@ Conexão com o novo banco."
 Criação da view e métodos para ver os departamentos dentro do banco de dados.
 Criação da view e métodos para adicionar departamentos dentro do banco de dados.
 
+#### 25/07 - 12:10
+Criação da view e métodos para ver cada departamento detalhadamente.
+Criação da view e métodos para remover departamentos dentro do banco de dados.
+
 ## ANOTAÇÕES
 
 **ASYNC** = Permite que quem fez a requisição, continue outros processos normalmente.
@@ -59,3 +63,15 @@ public async Task(IActionResult) = Método que retorna um ActionResult assincron
 Create([Bind("Nome")] Departamento departamento) = O metodo recebe como parametro um objeto departamento.
 
 **BIND("Nome")** *(bibilioteca LINQ)* = Diz que só vai utilizar a variavel de nome "Nome" do objeto como parametro, e não ele inteiro
+
+#### 25/07 - 12:10 - DepartamentoController - Edição e Remoção de dados no banco.
+```
+public async Task<IActionResult> DeleteConfirm(long? id)
+{
+	await _context.Departamentos.SingleOrDefaultAsync(departamentos => departamentos.ID == id)
+}
+```
+- **_context.Departamentos ->** Cada linha da tabela "Departamentos".
+- **.SingleORDefaultAsync ->** Metodo para pegar o primeiro dado que aparecer, ou retornar nulo
+- **(departamentos => departamentos.ID == id) ->** Expressão lambda. deparmamentos é apenas o nome da variavel que armazena a coleção a ser analisada.
+- - Em seguida, descreve a expressão, que diz basicamente que retorna apenas os objetos da coleção que tiverem o id igual ao id recebido como parametro do método
